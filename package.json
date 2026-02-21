@@ -1,0 +1,29 @@
+"homepage": "https://ashi029.github.io/my-react-app",
+
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/ashi029/COMP2156#readme",
+  "bugs": {
+    "url": "https://github.com/ashi029/COMP2156/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashi029/COMP2156.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  }
+  "dependencies": {
+  "react": "^18.x.x",
+  "react-dom": "^18.x.x",
+  "react-scripts": "5.0.1"
+  }
+
+}
